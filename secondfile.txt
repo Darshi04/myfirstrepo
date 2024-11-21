@@ -1,0 +1,5 @@
+1 create new text file with new content
+2. execute below commands:
+git add new_filename
+git commit -m "my second file is added"
+git push -u origin master
